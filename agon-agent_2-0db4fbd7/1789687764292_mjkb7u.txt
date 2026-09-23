@@ -1,0 +1,1 @@
+{"statusCode":"400","error":"InvalidJWT","message":"Invalid Compact JWS","code":"InvalidJWT"}
